@@ -31,6 +31,7 @@ yarn install
 
 ```bash
 npm install
+npm install --registry=https://registry.npm.taobao.org
 ```
 
 3. 启动本地服务器。
